@@ -1,0 +1,43 @@
+.center{
+    text-align: center;
+    color: rgb(145, 12, 94);
+}
+
+.mar{
+    margin: 0px;
+    display: inline-block;
+}
+.dishes{
+width: 100%;
+padding: 40px 0px;
+    background-color: rgb(202, 200, 200);
+}
+.container{
+    width: 70%;
+    margin-left: 15%;
+}
+.card{
+    width: 30%;
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px; 
+    overflow: hidden;
+    /* margin-left: 5%; */
+    margin-bottom: 40px;
+
+}
+.dish-img{
+    width: 100%;
+    height: 400px;
+    /* background-color: yellow; */
+    overflow: hidden;
+}
+.dish-desc{
+   
+    /* background-color: yellow; */
+    padding: 10px 20px;
+    font-family: calibri;
+}
+.image{
+    width: 100%;
+}
